@@ -1,0 +1,36 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: LemonChiffon;
+}
+
+
+.mystyle{
+  margin-bottom: 20px;
+  text-align: center;
+  }
+  
+.mystyle .col-sm-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.mystyle h2 {
+  font-weight: normal;
+}
+.mystyle .col-xs-12 p {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom:50px;
+}
+
+.mystyle .col-sm-6 p {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom:50px;
+}
+
+.mystyle .col-md-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom:100px;
+}
